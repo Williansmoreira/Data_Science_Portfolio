@@ -17,3 +17,5 @@ I am graduated to computer science from UNINOVE an biggest university of Brazil 
 ## Projects:
 
 See below the projects I built using real data.
+
+---
