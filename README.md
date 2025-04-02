@@ -9,7 +9,7 @@ Detail-oriented and passionate about data, I work in financial and technical ana
 
 I am graduated to computer science from UNINOVE an biggest university of Brazil based in São Paulo, and learning in DATA SCIENCE from Sigmoidal using real case and projects acoording  a growhing  up and ensuring the knoledge.
 
-# Background in: Phyton, Excel, Power Bi, C# and C
+**Background in:** Phyton, Excel, Power Bi, C# and C
 
 **Link:**
 *[LinkedIn](linkedin.com/in/willianssmoreira)
