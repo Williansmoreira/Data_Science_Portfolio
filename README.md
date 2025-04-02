@@ -12,7 +12,7 @@ I am graduated to computer science from UNINOVE an biggest university of Brazil 
 **Background in:** Phyton, Excel, Power Bi, C# and C
 
 **Link:**
-*[LinkedIn](linkedin.com/in/willianssmoreira)
+* [LinkedIn](linkedin.com/in/willianssmoreira)
 
 ## Projects:
 
