@@ -20,4 +20,4 @@ See below the projects I built using real data.
 
 ---
 
-* Analisando dados do Airbnb para a cidade de Munique - Alemanha: Analise_Airbnb_Munique.ipynb
+* Analisando dados do Airbnb para a cidade de Munique - Alemanha: [Analise_Airbnb_Munique.ipynb](https://bit.ly/4jx73wJ)
