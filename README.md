@@ -21,3 +21,4 @@ See below the projects I built using real data.
 ---
 
 * Analisando dados do Airbnb para a cidade de Munique - Alemanha: https://bit.ly/4jx73wJ
+* Analisando Dados do São João 2024 no estado da Bahia - https://bit.ly/4j8sSBW
